@@ -29,7 +29,7 @@ const Footer = () => {
         <h3>Contact</h3>
         <div className="footer_right_info">
           <LocalPhone />
-          <p>+84 904421394</p>
+          <p>+84 383769194</p>
         </div>
         <div className="footer_right_info">
           <Email />
